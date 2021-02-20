@@ -1,5 +1,5 @@
 # bayesian_est_workshop
-Repository for the Bayesian parameter estimation workshop, presented at the Mathematical School of Psychology (22 Feb 2021).
+Material for the **Bayesian parameter estimation** workshop, presented at the Mathematical School of Psychology (22 Feb 2021).
 
 Workshop program:
 
