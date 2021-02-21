@@ -8,9 +8,5 @@ Workshop program:
     - [Stan language](https://github.com/laurafontanesi/bayesian_est_workshop/blob/main/notebooks/stan_primer.ipynb)
 2. Second part
     - [Binomial example](https://github.com/laurafontanesi/bayesian_est_workshop/blob/main/notebooks/binomial.ipynb)
-    - [Normal example](https://github.com/laurafontanesi/bayesian_est_workshop/blob/main/notebooks/normal.ipynb)
-    - [Logistic regression](https://github.com/laurafontanesi/bayesian_est_workshop/blob/main/notebooks/linear_regression.ipynb)
-    - [Linear regression](https://github.com/laurafontanesi/bayesian_est_workshop/blob/main/notebooks/logistic_regression.ipynb)
-3. Third part
-    - [Diffusion model](https://github.com/laurafontanesi/bayesian_est_workshop/blob/main/notebooks/diffusion_model.ipynb)
-    - Hierarchical models
+    - [Linear regression](https://github.com/laurafontanesi/bayesian_est_workshop/blob/main/notebooks/linear_regression.ipynb)
+    - [Logistic regression](https://github.com/laurafontanesi/bayesian_est_workshop/blob/main/notebooks/logistic_regression.ipynb)
